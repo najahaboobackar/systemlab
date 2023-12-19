@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Lenovo/Desktop/systemlab/cprogram",
-      "program": "c:/Users/Lenovo/Desktop/systemlab/cprogram/build/Debug/outDebug",
+      "cwd": "c:/Users/Lenovo/Desktop/systemlab",
+      "program": "c:/Users/Lenovo/Desktop/systemlab/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "C:/MinGW/bin/gdb.exe",
       "setupCommands": [
